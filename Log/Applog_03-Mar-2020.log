@@ -1,0 +1,660 @@
+03-Mar-2020  11:49:50  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  11:49:50  INFO [shesuser.py:127]                     Session Started                      
+03-Mar-2020  11:49:50  INFO [shesuser.py:128]  ========================================================
+03-Mar-2020  11:49:50  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  11:49:50  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 435, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  11:49:50  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  11:49:56  INFO [shesuser.py:455]  Valid Login Credentials - 03 Mar 2020 11:49:56
+03-Mar-2020  11:53:50  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  11:53:50  INFO [shesuser.py:127]                     Session Started                      
+03-Mar-2020  11:53:50  INFO [shesuser.py:128]  ========================================================
+03-Mar-2020  11:53:50  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  11:53:50  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 435, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  11:53:50  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  11:53:56  INFO [shesuser.py:455]  Valid Login Credentials - 03 Mar 2020 11:53:56
+03-Mar-2020  11:55:18  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  11:55:18  INFO [shesuser.py:127]                     Session Started                      
+03-Mar-2020  11:55:18  INFO [shesuser.py:128]  ========================================================
+03-Mar-2020  11:55:18  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  11:55:18  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 435, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  11:55:18  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  11:55:30  INFO [shesuser.py:455]  Valid Login Credentials - 03 Mar 2020 11:55:30
+03-Mar-2020  11:56:25  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  11:56:25  INFO [shesuser.py:127]                     Session Started                      
+03-Mar-2020  11:56:25  INFO [shesuser.py:128]  ========================================================
+03-Mar-2020  11:56:25  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  11:56:25  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 435, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  11:56:25  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  11:57:49  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  11:57:49  INFO [shesuser.py:127]                     Session Started                      
+03-Mar-2020  11:57:49  INFO [shesuser.py:128]  ========================================================
+03-Mar-2020  11:57:49  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  11:57:49  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 435, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  11:57:49  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  11:57:55  INFO [shesuser.py:455]  Valid Login Credentials - 03 Mar 2020 11:57:55
+03-Mar-2020  11:59:23  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  11:59:23  INFO [shesuser.py:127]                     Session Started                      
+03-Mar-2020  11:59:23  INFO [shesuser.py:128]  ========================================================
+03-Mar-2020  11:59:23  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  11:59:23  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 435, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  11:59:23  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  11:59:29  INFO [shesuser.py:455]  Valid Login Credentials - 03 Mar 2020 11:59:29
+03-Mar-2020  12:04:36  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  12:04:36  INFO [shesuser.py:127]                     Session Started                      
+03-Mar-2020  12:04:36  INFO [shesuser.py:128]  ========================================================
+03-Mar-2020  12:04:36  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  12:04:36  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 435, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  12:04:36  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  12:04:43  INFO [shesuser.py:455]  Valid Login Credentials - 03 Mar 2020 12:04:43
+03-Mar-2020  12:06:56  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  12:06:56  INFO [shesuser.py:127]                     Session Started                      
+03-Mar-2020  12:06:56  INFO [shesuser.py:128]  ========================================================
+03-Mar-2020  12:06:56  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  12:06:56  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 435, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  12:06:56  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  12:07:02  INFO [shesuser.py:455]  Valid Login Credentials - 03 Mar 2020 12:07:02
+03-Mar-2020  12:08:43  INFO [shesuser.py:124]  ========================================================
+03-Mar-2020  12:08:43  INFO [shesuser.py:125]                     Session Started                      
+03-Mar-2020  12:08:43  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  12:08:43  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  12:08:43  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 433, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  12:08:43  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  12:08:50  INFO [shesuser.py:453]  Valid Login Credentials - 03 Mar 2020 12:08:50
+03-Mar-2020  12:10:54  INFO [shesuser.py:124]  ========================================================
+03-Mar-2020  12:10:54  INFO [shesuser.py:125]                     Session Started                      
+03-Mar-2020  12:10:54  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  12:10:54  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  12:10:54  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 433, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  12:10:54  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  12:11:02  INFO [shesuser.py:453]  Valid Login Credentials - 03 Mar 2020 12:11:02
+03-Mar-2020  12:12:16  INFO [shesuser.py:124]  ========================================================
+03-Mar-2020  12:12:16  INFO [shesuser.py:125]                     Session Started                      
+03-Mar-2020  12:12:16  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  12:12:16  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  12:12:16  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 433, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  12:12:16  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  12:12:24  INFO [shesuser.py:802]  On closing 
+03-Mar-2020  12:12:31  INFO [shesuser.py:124]  ========================================================
+03-Mar-2020  12:12:31  INFO [shesuser.py:125]                     Session Started                      
+03-Mar-2020  12:12:31  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  12:12:31  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  12:12:31  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 433, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  12:12:31  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  12:12:36  INFO [shesuser.py:453]  Valid Login Credentials - 03 Mar 2020 12:12:36
+03-Mar-2020  12:13:53  INFO [shesuser.py:124]  ========================================================
+03-Mar-2020  12:13:53  INFO [shesuser.py:125]                     Session Started                      
+03-Mar-2020  12:13:53  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  12:13:53  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  12:13:53  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 433, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  12:13:53  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  12:13:58  INFO [shesuser.py:453]  Valid Login Credentials - 03 Mar 2020 12:13:58
+03-Mar-2020  12:14:42  INFO [shesuser.py:124]  ========================================================
+03-Mar-2020  12:14:42  INFO [shesuser.py:125]                     Session Started                      
+03-Mar-2020  12:14:42  INFO [shesuser.py:126]  ========================================================
+03-Mar-2020  12:14:42  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  12:14:42  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 433, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  12:14:42  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  12:14:47  INFO [shesuser.py:453]  Valid Login Credentials - 03 Mar 2020 12:14:47
+03-Mar-2020  12:19:58  INFO [shesuser.py:802]  On closing 
+03-Mar-2020  13:29:34  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:29:34  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:29:34  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:29:34  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:29:34  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:29:34  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:29:50  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:29:50
+03-Mar-2020  13:30:53  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:30:53  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:30:53  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:30:53  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:30:53  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:30:53  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:31:12  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:31:12
+03-Mar-2020  13:32:37  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:32:37  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:32:37  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:32:37  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:32:37  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:32:37  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:32:43  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:32:43
+03-Mar-2020  13:33:11  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  13:33:12  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  13:34:42  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:34:42  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:34:42  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:34:42  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:34:42  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:34:42  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:34:47  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:34:47
+03-Mar-2020  13:35:06  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  13:35:07  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  13:36:53  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:36:53  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:36:53  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:36:53  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:36:53  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:36:53  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:36:59  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:36:59
+03-Mar-2020  13:37:15  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  13:37:16  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  13:37:44  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:37:44  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:37:44  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:37:45  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:37:45  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:37:45  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:37:50  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:37:50
+03-Mar-2020  13:38:17  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  13:38:18  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  13:40:35  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:40:35  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:40:35  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:40:35  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:40:35  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:40:35  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:40:39  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:40:39
+03-Mar-2020  13:52:21  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:52:21  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:52:21  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:52:21  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:52:21  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:52:21  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:52:30  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:52:30
+03-Mar-2020  13:55:06  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:55:06  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:55:06  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:55:07  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:55:07  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:55:07  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:55:17  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:55:17
+03-Mar-2020  13:58:15  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  13:58:40  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  13:58:41  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:58:41  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:58:41  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:58:41  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:58:41  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:58:41  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:58:48  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:58:48
+03-Mar-2020  13:59:00  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  13:59:02  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  13:59:30  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  13:59:30  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  13:59:30  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  13:59:30  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  13:59:30  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  13:59:30  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  13:59:35  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 13:59:35
+03-Mar-2020  13:59:46  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  13:59:47  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  13:59:48  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:00:02  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:00:02  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:00:02  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:00:02  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:00:02  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:00:02  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:00:08  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:00:08
+03-Mar-2020  14:00:22  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:00:23  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:01:30  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:01:30  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:01:30  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:01:31  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:01:31  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:01:31  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:01:39  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:01:39
+03-Mar-2020  14:01:55  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:01:56  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:03:59  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:03:59  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:03:59  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:03:59  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:03:59  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:03:59  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:04:06  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:04:06
+03-Mar-2020  14:04:21  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:04:22  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:04:44  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:04:44  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:04:44  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:04:44  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:04:44  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:04:44  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:04:48  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:04:48
+03-Mar-2020  14:05:51  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:05:51  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:05:51  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:05:51  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:05:51  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:05:51  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:05:59  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:05:59
+03-Mar-2020  14:06:13  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:06:14  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:06:30  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:06:30  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:06:30  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:06:30  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:06:30  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:06:30  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:06:39  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:06:39
+03-Mar-2020  14:07:39  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:07:39  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:07:39  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:07:39  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:07:39  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:07:39  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:07:43  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:07:43
+03-Mar-2020  14:08:16  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:08:18  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:11:57  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:11:57  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:11:57  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:11:57  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:11:57  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:11:57  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:12:02  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:12:02
+03-Mar-2020  14:13:52  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:13:52  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:13:52  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:13:52  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:13:52  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:13:52  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:13:55  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:13:57  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:13:59  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:13:59  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:13:59  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:14:00  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:14:00  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:14:00  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:14:06  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:14:06
+03-Mar-2020  14:14:34  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:14:36  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:16:47  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:16:47  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:16:47  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:16:47  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:16:47  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:16:47  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:16:52  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:16:52
+03-Mar-2020  14:17:11  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:17:12  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:17:26  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:17:26  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:17:26  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:17:26  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:17:26  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:17:26  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:17:30  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:17:30
+03-Mar-2020  14:17:51  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:17:53  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:20:49  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:20:49  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:20:49  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:20:49  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:20:49  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:20:49  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:20:55  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:20:55
+03-Mar-2020  14:21:35  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:21:37  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:22:37  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:22:37  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:22:37  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:22:37  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:22:37  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:22:37  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:22:42  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:22:42
+03-Mar-2020  14:24:00  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:24:20  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:24:21  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:24:21  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:24:21  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:24:22  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:24:22  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:24:22  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:24:29  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:24:29
+03-Mar-2020  14:24:31  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:24:31
+03-Mar-2020  14:24:53  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:24:55  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:25:14  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:25:14  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:25:14  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:25:14  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:25:14  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:25:14  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:25:19  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:25:19
+03-Mar-2020  14:25:47  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:25:49  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:28:41  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:28:41  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:28:41  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:28:41  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:28:41  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:28:41  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:28:47  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:28:47
+03-Mar-2020  14:28:56  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:28:57  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:33:13  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:33:13  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:33:13  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:33:13  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:33:13  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:33:13  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:33:18  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:33:18
+03-Mar-2020  14:33:34  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:33:35  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:33:48  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:33:48  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:33:48  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:33:48  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:33:48  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:33:48  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:34:06  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:34:06
+03-Mar-2020  14:34:53  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:34:54  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:39:44  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:39:44  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:39:44  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:39:44  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:39:44  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:39:44  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:40:01  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:40:01
+03-Mar-2020  14:40:15  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:40:17  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:40:56  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:40:56  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:40:56  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:40:57  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:40:57  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:40:57  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:41:01  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:41:01
+03-Mar-2020  14:41:37  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:41:38  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:51:09  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:51:09  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:51:09  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:51:09  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:51:09  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:51:09  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:51:16  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:51:16
+03-Mar-2020  14:51:36  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:51:39  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  14:56:18  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  14:56:18  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  14:56:18  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  14:56:18  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  14:56:18  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  14:56:18  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  14:56:26  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 14:56:26
+03-Mar-2020  14:56:40  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  14:56:41  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  15:07:14  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  15:07:14  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  15:07:14  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  15:07:14  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  15:07:14  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  15:07:14  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  15:07:19  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 15:07:19
+03-Mar-2020  15:07:34  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  15:07:35  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  15:08:00  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  15:08:00  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  15:08:00  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  15:08:00  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  15:08:00  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  15:08:00  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  15:08:04  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 15:08:04
+03-Mar-2020  15:08:18  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  15:08:19  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  15:08:34  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  15:08:34  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  15:08:34  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  15:08:34  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  15:08:34  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  15:08:34  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  15:08:40  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 15:08:40
+03-Mar-2020  15:09:28  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  15:09:29  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  15:11:19  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  15:11:19  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  15:11:19  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  15:11:19  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  15:11:19  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  15:11:19  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  15:11:27  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 15:11:27
+03-Mar-2020  15:11:45  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  15:11:46  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  15:13:17  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  15:13:17  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  15:13:17  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  15:13:17  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  15:13:17  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  15:13:17  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  15:13:22  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 15:13:22
+03-Mar-2020  15:17:41  INFO [shesuser.py:805]  On closing 
+03-Mar-2020  15:17:48  INFO [shesuser.py:818]  In force kill... 
+03-Mar-2020  15:59:19  INFO [shesuser.py:127]  ========================================================
+03-Mar-2020  15:59:19  INFO [shesuser.py:128]                     Session Started                      
+03-Mar-2020  15:59:19  INFO [shesuser.py:129]  ========================================================
+03-Mar-2020  15:59:19  ERROR [utilities.py:34]  ******************** Error Started ********************
+03-Mar-2020  15:59:19  ERROR [utilities.py:35]  Traceback (most recent call last):
+  File "/home/kalgudi/Documents/shes/shesuser.py", line 436, in loginPage
+    if db._userCount():
+AttributeError: module 'database_Server' has no attribute '_userCount'
+
+03-Mar-2020  15:59:19  ERROR [utilities.py:36]  ******************** Error Ended **********************
+03-Mar-2020  15:59:29  INFO [shesuser.py:456]  Valid Login Credentials - 03 Mar 2020 15:59:29
+03-Mar-2020  16:15:34  INFO [shesuser.py:805]  On closing 
