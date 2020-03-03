@@ -1169,6 +1169,7 @@ def medicalRequest(seafar_id):
                                   font=('Helvetica', '15'), command=backpage, cursor="hand2")
         back_button.place(x=10, y=25)
         canvas7 = Canvas(root, width=1000, height=430, bg="white", bd=0, relief='ridge', highlightthickness=0)
+        
         next_button = HoverButton(canvas5, text="Next>>", bg="#007ED9", fg="white", font=('Helvetica', '15'),
                                   width=15, activebackground='blue', cursor="hand2",
                                   command=lambda: showCanvas(canvas7, canvas5,1,1))  # , command=lambda: saveDetails()
@@ -1199,7 +1200,10 @@ def medicalRequest(seafar_id):
                                    width=15, activebackground='blue', cursor="hand2",
                                    command= lambda :SaveMedicalReq(seafar_id))  # , command=lambda: saveDetails()
         next_button7.place(x=600, y=385)
-        #Canvas 8 end
+        #Canvas 8 end a
+
+
+        #canvas 9 end
 
 
     except Exception as e:
