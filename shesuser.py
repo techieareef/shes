@@ -101,13 +101,14 @@ photo_image9 = ImageTk.PhotoImage(image9)
 image17 = Image.open("Pictures/patient_reg.png")
 image17 = image17.resize((170, 200), Image.ANTIALIAS)
 doctor_image = ImageTk.PhotoImage(image17)
-
 canvas_image = Image.open("Pictures/home_page.jpg")
-
 canvas_bg = ImageTk.PhotoImage(canvas_image)
 canvas_Alimage = Image.open("Pictures/home_page_2.jpg")
 canvas_Alimage = canvas_Alimage.resize((root.winfo_screenwidth(),root.winfo_screenheight()), Image.ANTIALIAS)
 canvas_Albg = ImageTk.PhotoImage(canvas_Alimage)
+body = Image.open("Pictures/body.jpeg")
+body = body.resize((500,500), Image.ANTIALIAS)
+body = ImageTk.PhotoImage(body)
 
 def create_shes_logs ():
     from pathlib import Path
@@ -1151,11 +1152,13 @@ def medicalRequest(seafar_id):
         symptom_entry.place(x=800, y=315)
 
         def getCategeries(sym_type):
+
             sym_type_id = 1
             if sym_type == 'Diseases':
                 sym_type_id = 1
             if sym_type == 'Accidents':
                 sym_type_id = 2
+                accidentInfo()
 
             print(sym_type)
             print(sym_type_id)
@@ -1163,7 +1166,122 @@ def medicalRequest(seafar_id):
             symptoms = [i.cat_name for i in allQuestions if i.sym_type == sym_type_id]
             symptom_entry.set_completion_list(symptoms)
 
+        def accidentInfo():  # added 'self'
+            popup = Toplevel()
+            popup.title("header")
+            burnt_check=StringVar()
+            sunstroke_check=StringVar()
+            intoxication_check=StringVar()
+            fishingacc_check=StringVar()
+            dynamics_check=StringVar()
+            electrocutiont_check=StringVar()
 
+
+            ksbar = Scrollbar(popup, orient=VERTICAL)
+            ksbar.grid(row=0, column=1, sticky="ns")
+
+            popCanv = Canvas(popup, width=root.winfo_screenwidth()/2, height=(root.winfo_screenheight()-root.winfo_screenheight()/3),bg="white",
+                             scrollregion=(0, 0, 800, 800))  # width=1256, height = 1674)
+            popCanv.grid(row=0, column=0, sticky="nsew")  # added sticky
+
+            ksbar.config(command=popCanv.yview)
+            popCanv.config(yscrollcommand=ksbar.set)
+
+            image = popCanv.create_image((root.winfo_screenwidth()-root.winfo_screenwidth()/3),root.winfo_screenheight()/2,image=body)  # correct way of adding an image to canvas
+            popCanv.create_text(200, 50, text="1. The person fell down  while walking  or running",anchor='nw')
+            popCanv.create_text(200, 70, text="2. The person fell down  from  the  height(in metres)" ,anchor='nw')
+            popCanv.create_text(200, 90, text="3. The person was hit by an object; specify",anchor='nw')
+            popCanv.create_text(200, 110, text="4. The person got  burnt:",anchor='nw')
+
+
+            burnt = Radiobutton(popup, text="By a fire", value="By a fire", var=burnt_check, bg="white")
+            burnt1 = Radiobutton(popup, text="By vapour", value="By vapour", bg="white", var=burnt_check)
+            burnt2 = Radiobutton(popup, text="By the  sun or other radiation", value="By the  sun or other radiation", bg="white", var=burnt_check)
+            burnt3 = Radiobutton(popup, text="By chemical  substances", value="By chemical  substances", bg="white", var=burnt_check)
+            burnt1.deselect()
+            burnt2.deselect()
+            burnt3.deselect()
+            burnt.place(x=200, y=130)
+            burnt1.place(x=440, y=130)
+            burnt2.place(x=200, y=150)
+            burnt3.place(x=440, y=150)
+            popCanv.create_text(200, 180, text="5. The person was the  victim  of electrocution:", anchor='nw')
+            electrocution = Radiobutton(popup, text="Specify the  intensity of the  electric  current", value="BSpecify the  intensity of the  electric  current", var=electrocutiont_check, bg="white")
+            electrocution1 = Radiobutton(popup, text="Specify whether the  person was wet/dry", value="Specify whether the  person was wet/dry", bg="white", var=electrocutiont_check)
+            electrocution2 = Radiobutton(popup, text="Specify whether it was a lightening", value="Specify whether it was a lightening",
+                                 bg="white", var=electrocutiont_check)
+            electrocution1.deselect()
+            electrocution2.deselect()
+            electrocution.place(x=200, y=200)
+            electrocution1.place(x=200, y=220)
+            electrocution2.place(x=200, y=240)
+
+            popCanv.create_text(200, 270, text="6. The person had a sunstroke/ was hit by a gust  of heath.", anchor='nw')
+            sunstroke = Radiobutton(popup, text="Specify the  ambient temperature", value="Specify the  ambient temperature", var=sunstroke_check, bg="white")
+            sunstroke1 = Radiobutton(popup, text="Specify the  duration of the  exposure", value="Specify the  duration of the  exposure", bg="white", var=sunstroke_check)
+            sunstroke2 = Radiobutton(popup, text="Specify whether he had some  liquids to drink", value="Specify whether he had some  liquids to drink",
+                                 bg="white", var=sunstroke_check)
+            sunstroke3 = Radiobutton(popup, text="Specify whether there were  also smokes  or vapours", value="Specify whether there were  also smokes  or vapours", bg="white",
+                                 var=sunstroke_check)
+            sunstroke1.deselect()
+            sunstroke2.deselect()
+            sunstroke3.deselect()
+            sunstroke.place(x=200, y=290)
+            sunstroke1.place(x=440, y=290)
+            sunstroke2.place(x=200, y=310)
+            sunstroke3.place(x=440, y=310)
+
+            popCanv.create_text(200, 340, text="7. The person had an intoxication/poisoning:",
+                                anchor='nw')
+            intoxication = Radiobutton(popup, text="He/she had unsafe food or drinks",
+                                    value="He/she had unsafe food or drinks", var=intoxication_check, bg="white")
+            intoxication1 = Radiobutton(popup, text="He/she ingested chemical  substances",
+                                     value="He/she ingested chemical  substances", bg="white", var=intoxication_check)
+            intoxication2 = Radiobutton(popup, text="He/she took  some  medicines or drugs",
+                                     value="He/she took  some  medicines or drugs",
+                                     bg="white", var=intoxication_check)
+            intoxication3 = Radiobutton(popup, text="He/she had alcoholic  drinks",
+                                     value="He/she had alcoholic  drinks", bg="white",
+                                     var=intoxication_check)
+            intoxication4 = Radiobutton(popup, text="He/she inhaled fumes",
+                                     value="He/she inhaled fumes", bg="white",
+                                     var=intoxication_check)
+            intoxication1.deselect()
+            intoxication2.deselect()
+            intoxication3.deselect()
+            intoxication4.deselect()
+            intoxication.place(x=200, y=360)
+            intoxication1.place(x=440, y=360)
+            intoxication2.place(x=200, y=380)
+            intoxication3.place(x=440, y=380)
+            intoxication4.place(x=200, y=400)
+
+            popCanv.create_text(200, 420, text="8. He had an accident while fishing:",anchor='nw')
+            fishingacc = Radiobutton(popup, text="He/she had unsafe food or drinks",
+                                       value="He/she had unsafe food or drinks", var=fishingacc_check, bg="white")
+            fishingacc1 = Radiobutton(popup, text="He/she ingested chemical  substances",
+                                        value="He/she ingested chemical  substances", bg="white",
+                                        var=fishingacc_check)
+            fishingacc1.deselect()
+            fishingacc.place(x=200, y=440)
+            fishingacc1.place(x=440, y=440)
+
+            popCanv.create_text(200, 460, text="9. Describe,  in a text,  the  dynamics of the  accident:", anchor='nw')
+            dynamics = Radiobutton(popup, text="Specify how the  accident happened",
+                                     value="Specify how the  accident happened", var=dynamics_check, bg="white")
+            dynamics1 = Radiobutton(popup, text="Describe  the  type  of work  the  person was doing before the  accident happened",
+                                      value="Describe  the  type  of work  the  person was doing before the  accident happened", bg="white",
+                                      var=dynamics_check)
+            dynamics1.deselect()
+            dynamics.place(x=200, y=480)
+            dynamics1.place(x=200, y=500)
+
+            popup.rowconfigure(0, weight=1)  # added (answer to your question)
+            popup.columnconfigure(0, weight=1)  # added (answer to your question)
+
+            submitdetails = HoverButton(popup, text="submit details", bg="#007ED9", fg="white", font=('Helvetica', '15'),
+                                      width=15, activebackground='blue', cursor="hand2",)
+            submitdetails.place(x=200, y=550)
         back_button = HoverButton(canvas6, image=photo_image9, width=80, height=backButton_height, bg="white",
                                   borderwidth=0,
                                   font=('Helvetica', '15'), command=backpage, cursor="hand2")
@@ -1343,11 +1461,6 @@ def getQuestions():
 def showCanvas(canvasShow, canvasHide,status=None,datashow=None):
     global symptom_entry,symptom_type_entry
 
-    if datashow!=None:
-        print("hello")
-    else:
-        print("no hello")
-
     if status==1:
         if symptom_entry.get()=="":
             d = dialoguebox(root, text='please select the main symptom !!!', buttons=["OK"], default=0, cancel=2,
@@ -1355,19 +1468,15 @@ def showCanvas(canvasShow, canvasHide,status=None,datashow=None):
                             icon='Pictures/warn.png')
 
             if(d.go())==0:
-                # canvasHide.place(x=200, y=200)
-                # canvasShow.place_forget()
                 back_button.place(x=10, y=25)
 
         else:
             if datashow != None:
-
                 getQuestions()
                 canvas7.place(x=200, y=200)
                 canvasHide.place_forget()
                 back_button.place_forget()
             else:
-
                 canvasShow.place(x=200, y=200)
                 canvasHide.place_forget()
                 back_button.place_forget()
