@@ -1,0 +1,35 @@
+Category,Category_Question,Question_Type,OptionA,OptionB,OptionC,OptionD,FirstAidDes
+Fever,What is the temparature ? ,fill_in_blank,,,,,Description  here 
+Fever,Is having Headache ,Yes/No,,,,,Description  here 
+Fever,Having any other problmes ?,Multiple,Cough ,cold ,Headache ,Body pains,Description  here 
+Nausea/Vomit,How long ago has the cough appeared,fill_in_blank,,,,,Description  here 
+Nausea/Vomit, Cold or rain?,Yes/No,,,,,Description  here 
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
